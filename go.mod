@@ -1,4 +1,4 @@
-module github.com/fadymondy/skills
+module github.com/togo-framework/skills
 
 go 1.26.4
 

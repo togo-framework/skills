@@ -2,13 +2,13 @@
 
 Skill resource: proficiency-ranked grid by category.
 
-- **Source:** https://github.com/fadymondy/skills
+- **Source:** https://github.com/togo-framework/skills
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/skills
+togo install togo-framework/skills
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level
